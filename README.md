@@ -1,5 +1,7 @@
 # Laser Line Extraction
-Laser Line Extraction is a [Robot Operating System (ROS2)](http://www.docs.ros.org) package that extracts line segments form [LaserScan](http://docs.ros.org/api/sensor_msgs/html/msg/LaserScan.html) messages. This ROS2 wrapper was created by [Adharsh Venkat](http://linkedin.com/in/adharshvenkatachalam). The original package was created by [Marc Gallant](http://marcgallant.ca), originally for use in the [Mining Systems Laboratory](http://msl.engineering.queensu.ca). 
+Laser Line Extraction is a [Robot Operating System (ROS2)](https://docs.ros.org/) package that extracts line segments form [LaserScan](http://docs.ros.org/api/sensor_msgs/html/msg/LaserScan.html) messages. This ROS2 wrapper was created by [Adharsh Venkat](http://linkedin.com/in/adharshvenkatachalam). The purpose for creating this wrapper is to use the line extaction algorithm to detect the charhing station during auto-charging sequence. 
+
+The original package was created by [Marc Gallant](http://marcgallant.ca), originally for use in the [Mining Systems Laboratory](http://msl.engineering.queensu.ca). Link to the original repo: https://github.com/kam3k/laser_line_extraction
 
 
 ## Algorithm
