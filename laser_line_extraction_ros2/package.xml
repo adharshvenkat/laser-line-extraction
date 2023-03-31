@@ -5,7 +5,7 @@
   <description>
       A ROS2 package to extract line segments from LaserScan messages.
   </description>
-  <maintainer email="m.gallant@queensu.ca">Marc Gallant</maintainer>
+  <maintainer email="adharsh.venkat98@gmail.com">Adharsh Venkatachalam</maintainer>
   <license>BSD</license>
   <buildtool_depend>ament_cmake</buildtool_depend>
   <build_depend>cmake_modules</build_depend>
